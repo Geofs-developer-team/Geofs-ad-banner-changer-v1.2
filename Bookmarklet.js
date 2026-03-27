@@ -1,1 +1,1 @@
-javascript:(() => {var Script = document.createElement('script'); Script.src="https://raw.githack.com/AirplanesAviation2361/Geofs-ad-banner-changer-v1.2/main/main.js";document.body.appendChild(Script);Script.onload = (function(){Go()});})()
+javascript:(() => {var Script = document.createElement('script'); Script.src="https://raw.githack.com/AirplanesAviation2361/Geofs-ad-banner-changer-v1.2/main/main.js";document.head.appendChild(link);Script.onload = (function(){Go()});})()
