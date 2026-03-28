@@ -46,6 +46,15 @@ Replace the default GeoFS ad banner with custom rotating airline messages.
 ✔ No extensions  
 ✔ Works on iPad & desktop  
 
+## 🐵 Tampermonkey Usage
+1: copy the entire main.js
+2: paste it in tampermonkey
+3: tanmpermonkey will generate the main.js
+4: save the code
+5: Copy-paste the code in geofs
+
+works on computer
+
 ## ✨ Features
 - Rotating airline banners
 - Fade animation
@@ -53,5 +62,5 @@ Replace the default GeoFS ad banner with custom rotating airline messages.
 - Mobile compatible
 - Custom CSS styling
 
-## 📄 License
-MIT
+## 📄 Licenses
+MIT 
