@@ -23,7 +23,7 @@ function afterGMenu() {
 	{
 		"name": "Geofs Ad Banner Changer v1.2",
 		"description": "a basic Ad banner changer for geofs",
-		"version": "version number for debugging",
+		"version": "v1.2",
 		"script": "main.js",
 		"author": "AirplanesAviation2361",
 		"repository":  "https://github.com/Geofs-developer-team/Geofs-ad-banner-changer-v1.2.git"
