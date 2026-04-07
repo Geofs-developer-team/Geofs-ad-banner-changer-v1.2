@@ -20,19 +20,19 @@
 }
 
 /* Airline themes */
-.geofs-custom-banner.fly-hk {
+.geofs-custom-banner.(your custom airline) {
   background: linear-gradient(90deg, #FFD700, #000000); /* yellow → black */
   color: #000000;
   border: 1px solid #b38f00;
 }
 
-.geofs-custom-banner.fly-pk {
+.geofs-custom-banner.(your custom airline) {
   background: linear-gradient(90deg, #008000, #FFFF00, #FF0000); /* green → yellow → red */
   color: #000000;
   border: 1px solid #004d00;
 }
 
-.geofs-custom-banner.air-odisha {
+.geofs-custom-banner.(your custom airlne) {
   background: linear-gradient(90deg, #0000FF, #00BFFF); /* blue shades */
   color: #FFFFFF;
   border: 1px solid #004080;
