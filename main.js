@@ -11,9 +11,9 @@ const ROTATION_TIME = 5000;
 
 // Rotating banners
 const banners = [
-  "✈️ Fly Hong Kong — HKG → LHR",
-  "🛫 Fly Pakistan — ISB → DXB",
-  "🛬 Air Odisha — LHR → IGI"
+  "✈️ your custom airline — HKG → LHR",
+  "🛫 your custom airline — ISB → DXB",
+  "🛬 your custom airline — LHR → IGI"
 ];
 
 // Theme classes corresponding to banners
