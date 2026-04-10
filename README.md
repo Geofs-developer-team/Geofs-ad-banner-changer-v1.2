@@ -5,10 +5,14 @@ Planes that display advertising banners, known as aerial advertising, utilize va
 Overview of Aerial Advertising
 Aerial advertising involves the use of aircraft to display large banners or advertisements in the sky. This form of advertising has a long history, dating back to the early 1920s, and has evolved into a popular method for businesses to reach potential customers in a memorable way. 
 froggyads.com
+
 Types of Aircraft Used
 Common Aircraft: The most frequently used aircraft for towing banners include:
+
 Piper PA-18 Super Cub: Known for its stability and power, making it ideal for towing.
+
 Cessna 172: A versatile aircraft often used for various flying tasks, including banner towing.
+
 Vilga: Another aircraft suitable for this purpose due to its flying characteristics. 
 1
 
